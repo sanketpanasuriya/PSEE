@@ -1,2 +1,1 @@
-"# PSEE" 
-"# PSEE" 
+<p>Fetch the data from this <a href="https://reqres.in/api/unknown" class="external" target="_blank" rel="noreferrer noopener"><span>URL</span><span aria-hidden="true" class="ui-icon ui-icon-extlink ui-icon-inline" title="Links to an external site."></span><span class="screenreader-only">&nbsp;(Links to an external site.)</span></a>, store that data to SQLite database and Display that data from the database in recycler view.&nbsp;</p>
